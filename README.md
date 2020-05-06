@@ -4,4 +4,11 @@ I originally saw a [Numberphile](https://youtu.be/kbKtFN71Lfs) video about the [
 ## Images
 The more dots used, the closer the image looks to a Sierpiński triangle. Below are images created using various number of dots.
 
-![Image description](ChaosGamewith3Verticesand100Steps.png)
+![](ChaosGamewith3Verticesand100Steps.png)
+![](ChaosGamewith3Verticesand200Steps.png)
+![](ChaosGamewith3Verticesand500Steps.png)
+![](ChaosGamewith3Verticesand1000Steps.png)
+![](ChaosGamewith3Verticesand2000Steps.png)
+![](ChaosGamewith3Verticesand5000Steps.png)
+![](ChaosGamewith3Verticesand10000Steps.png)
+![](ChaosGamewith3Verticesand100000Steps.png)
