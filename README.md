@@ -6,7 +6,7 @@ I have included the code for creating this plot as a png and another code for cr
 
 ## Gif
 Here is a gif created using matplotlib. This one only goes to 2000 dots because it takes a long time to render.
-![](ChaosGameAnimationReducedSize.gif)
+![](ChaosGameReducedandSpedUp.gif)
 
 ## Images
 The more dots used, the closer the image looks to a Sierpiński triangle. Below are images created using various number of dots.
